@@ -1,0 +1,14 @@
+use_frameworks!
+
+target 'PodLibPROJECT_Example' do
+  pod 'PodLibPROJECT', :path => '../'
+
+  target 'PodLibPROJECT_Tests' do
+    inherit! :search_paths
+
+    pod 'Specta'
+  pod 'Expecta'
+  pod 'FBSnapshotTestCase'
+  pod 'Expecta+Snapshots'
+  end
+end

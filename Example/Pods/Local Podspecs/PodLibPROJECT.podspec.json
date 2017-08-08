@@ -1,0 +1,22 @@
+{
+  "name": "PodLibPROJECT",
+  "version": "0.1.0",
+  "summary": "A short description of PodLibPROJECT.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sundl1988@163.com/PodLibPROJECT",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sundl1988@163.com": "sundl1988@163.com"
+  },
+  "source": {
+    "git": "https://github.com/sundl1988@163.com/PodLibPROJECT.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PodLibPROJECT/Classes/**/*"
+}
